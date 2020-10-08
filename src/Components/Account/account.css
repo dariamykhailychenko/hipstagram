@@ -1,0 +1,13 @@
+.wrapper {
+    background-color: #F3F2F2;
+}
+
+.common-block {
+    min-height: 100vh;
+    max-width: 760px;
+    margin: 0 auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
